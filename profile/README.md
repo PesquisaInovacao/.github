@@ -1,12 +1,17 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
+### Objetivo da Organização
+A Organização de Pesquisa e Inovação foi criada para centralizar todos os repositórios, exemplos, práticas e atividades da aula de Pesquisa e Inovação. Este espaço público é gerenciado por mim, Davi Fernando da Silva, garantindo que os projetos fiquem conectados e não dispersos na minha conta pessoal.
 
-**Here are some ideas to get you started:**
+### Vantagens da Organização
+- Centralização de arquivos e projetos relacionados, facilitando o acesso e a organização.
+- Espaço público para compartilhar conhecimento e incentivar a reutilização de práticas.
+- Maior profissionalismo e consistência na apresentação dos projetos.
+- Facilidade na busca por atividades e práticas realizadas em aulas anteriores.
+- Possibilidade de criar um portfólio completo, mostrando a evolução e o aprendizado ao longo do curso.
+- Separação clara entre projetos acadêmicos e pessoais, evitando confusões.
+- Praticidade ao compartilhar o trabalho com colegas, professores ou recrutadores.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Linguagens Utilizadas
+- HTML
+- CSS
